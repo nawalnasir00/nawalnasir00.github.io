@@ -6,10 +6,13 @@ Hi, my name is # Nawal Nasir
 Welcome to my page where I discuss some of my past experiences and projects!
 
 
-'''markdown
 ## About
 
 I am currently a third year student at Brooklyn College. I am working towards a Bachelors of Science degree, majoring in Computer Science. I am the youngest of three children, all of whom are in the medical field. I have decided to pursue Computer Science because I enjoy programming and seeing how everything works together. I am also interested in Data Science because I think that using data and numbers to find solutions is very fun! My future goal is to work at a non-profit organization and help make a difference.  
+
+![Profile Picture](/images/1565970165189.png)
+Format: ![Alt Text](url)
+
 
 ```markdown
 Syntax highlighted code block
