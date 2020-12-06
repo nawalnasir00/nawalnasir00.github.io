@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-Hi, my name is 
-## Nawal Nasir
+Hi, my name is # Nawal Nasir
 
 Welcome to my page where I discuss some of my past experiences and projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+'''markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a third year student at Brooklyn College. I am working towards a Bachelors of Science degree, majoring in Computer Science. I am the youngest of three children, all of whom are in the medical field. I have decided to pursue Computer Science because I enjoy programming and seeing how everything works together. I am also interested in Data Science because I think that using data and numbers to find solutions is very fun! My future goal is to work at a non-profit organization and help make a difference.  
 
 ```markdown
 Syntax highlighted code block
@@ -32,10 +31,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nawalnasir00/nawalnasir00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Projects
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Connect
