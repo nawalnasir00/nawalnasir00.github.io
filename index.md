@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hi, my name is # Nawal Nasir
+Hi, my name is #Nawal Nasir
 
 Welcome to my page where I discuss some of my past experiences and projects!
 
