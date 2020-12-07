@@ -2,6 +2,7 @@
 layout: default
 ---
 Hi, my name is 
+
 #Nawal Nasir
 
 Welcome to my page where I discuss some of my past experiences and projects!
@@ -25,7 +26,7 @@ My internship at WebMD was very eye-opening. It was the first time I was able to
 
 
 ## Projects
-**Life Simulator**
+**1. Life Simulator**
 
 import java.util.Scanner;
 public class LifeSimulator {
@@ -304,6 +305,7 @@ public class LifeSimulator {
           
         
 }
+
 
 
 
