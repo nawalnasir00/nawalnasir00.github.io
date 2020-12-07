@@ -1,5 +1,4 @@
-github: is_project_page: false
 theme: jekyll-theme-hacker
 title: Coding Portfolio 
-description: an intro to my coding experience 
-
+description: an overview to my coding experience 
+github: is_project_page: false
